@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - SA011
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - SA011/Dream-Sports-League-Backend
+  - SA011/CSE410
+  - SA011/Compiler-310
+  - SA011/Fruit-Ninja

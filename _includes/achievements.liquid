@@ -1,0 +1,18 @@
+<div class="col mb-4">
+    <div>
+      <div class="row no-gutters">
+        <div class="{% if achievement.img %}col-md-9{% else %}col-md-11{% endif %}">
+          <div class="card-body">
+            <h3 class="card-title"><a href="{{ achievement.link }}" class="stretched-link">🔗</a> {{ achievement.title }}</h3>
+            <p class="card-text">{{ achievement.description }}</p>
+          </div>
+        </div>
+        {% if achievement.img %}
+          <div class="col-md-2">
+            <img src="{{achievement.img}}" width=216 alt="achievement thumbnail">
+          </div>
+        {% endif %}
+
+      </div>
+    </div>
+</div>

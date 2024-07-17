@@ -2,8 +2,12 @@
 layout: default
 permalink: /blog/
 title: blog
-nav: true
-nav_order: 1
+
+description: "Looks like there has been a mistake. Nothing exists here."
+redirect: true
+
+nav: false
+# nav_order: 1
 pagination:
   enabled: true
   collection: posts
@@ -16,6 +20,8 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
+You will be redirected to the main page within 3 seconds. If not redirected, please go back to the [home page]({{ site.baseurl | prepend: site.url }}).
+<!-- 
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
@@ -193,4 +199,4 @@ pagination:
 {% include pagination.liquid %}
 {% endif %}
 
-</div>
+</div> -->

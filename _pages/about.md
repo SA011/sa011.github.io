@@ -1,25 +1,27 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Computer Science Research Engineer
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>+8801798505511</p>
+    <!-- <p>93/1, Middle Pirerbag, Mirpur</p> -->
+    <p>Dhaka, Bangladesh </p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p>
+<!-- job --> I am currently a Lecturer at the Department of <a href="https://cse.sds.bracu.ac.bd/"> Computer Science and Engineering, BRAC University </a>. <!-- research interest --> I have a keen interest in Computer Vision, Artificial Intelligence, Data Structure and Algorithms.<!-- Education --> In July 2024, I have recieved my B.Sc.Engg Degree in <a href="https://cse.buet.ac.bd/"> Computer Science and Engineering</a> from <a href="https://buet.ac.bd/"> Bangladesh University of Engineering and Technology </a>. <br>
+<!-- CP --> I am also a <span style="color:Red">Grandmaster</span> in <a href="https://codeforces.com"> Codeforces </a>. I have participated in many national and international contests. In 2024, I have become <b>Asia West Champion</b> in <a href="https://icpc.global/"> 46<sup>th</sup> International Collegiate Programming Contest World Final </a>. <br><br><br>
+</p>
+<figure>
+<img src="/assets/img/wf2022-cropped.jpg" width="65%" alt="ICPC World Final 2022">
+<figcaption>46<sup>th</sup> ICPC World Final</figcaption>
+</figure>
