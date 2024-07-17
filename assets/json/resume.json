@@ -1,157 +1,160 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sk. Sabit Bin Mosaddek",
+    "designation": "Computer Science Engineer and Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "pritomsabit@gmail.com",
+    "phone": "+8801798505511",
+    "website": "https://sa011.github.io",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "93/1, Middle Pirerbag, Mirpur",
+      "postalCode": "1216",
+      "city": "Dhaka",
+      "country": "BANGALDESH"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Bangladesh University of Engineering and Technology",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://www.buet.ac.bd/",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2019-04-29",
+      "endDate": "2024-07-04",
+      "score": "3.83",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Asia West Champion at ICPC World Finals 2022",
+      "date": "2024-04-17",
+      "awarder": "International Collegiate Programming Contest",
+      "url": "https://icpc.global/ICPCID/8G78QKAWMN8N"
+    },
+    {
+      "title": "2nd Runner Up at ICPC Asia West Continent Final 2021",
+      "date": "2022-12-24",
+      "url": "https://codedrills.io/contests/icpc-asia-west-continent-finals-2021",
+      "awarder": "International Collegiate Programming Contest"
+    },
+    {
+      "title": "Grandmaster at Codeforces (Max Rating: 2403)",
+      "awarder": "Codeforces",
+      "url": "https://codeforces.com/profile/SA01",
+      "date": "2023-05-28"
+    },
+    {
+      "title": "286th in Google Code Jam Round 3 2021",
+      "awarder": "Google Code Jam",
+      "date": "2021-06-05",
+      "url": "https://codingcompetitions.withgoogle.com/codejam"
+    },
+    {
+      "title": "232nd in Meta Hackercup Round 3 2023",
+      "awarder": "Meta Hacker Cup",
+      "date": "2023-11-04",
+      "url": "https://www.facebook.com/codingcompetitions/hacker-cup/2023"
+    },
+    {
+      "title": "221st in Meta Hackercup Round 3 2021",
+      "awarder": "Meta Hacker Cup",
+      "date": "2021-10-09",
+      "url": "https://www.facebook.com/codingcompetitions/hacker-cup/2021" 
+    },
+    {
+      "title": "Champion in ICPC Asia Dhaka Regional Contest 2022",
+      "awarder": "ICPC Dhaka Regional Contest",
+      "date": "2022-03-01",
+      "url": "https://algo.codemarshal.org/contests/dhaka-22-main/standings"
+    },
+    {
+      "title": "1st Runner-up in ICPC Asia Dhaka Regional Contest 2021",
+      "awarder": "International Collegiate Programming Contest",
+      "date": "2021-11-04",
+      "url": "https://algo.codemarshal.org/contests/dhaka-21-main/standings"
+    }
+  ],
+
+  "work": [
+    {
+      "name": "BRAC University, Dhaka, Bangladesh",
+      "position": "Lecturer of Computer Science and Engineering",
+      "url": "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering",
+      "startDate": "2024-07-01",
+      "endDate": "",
+      "summary": "Teaching at the Department of Computer Science and Engineering, BRAC University, Dhaka, Bangladesh.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "BUET IUPC",
+      "location": "Dhaka, Bangladesh",
+      "position": "Organizer",
+      "url": "https://toph.co/c/buet-inter-university-2023",
+      "startDate": "2023-07-28",
+      "endDate": "2023-07-28",
+      "summary": "Organizer for the BUET Inter University Programming Contest and Problem Setter at the same event.",
+      "highlights": []
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Deep Learning", "Computer Vision", "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Problem Solving",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Competitive Programming", "Algorithm", "Data Structure"
+      ]
     }
   ],
   "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
   ],
   "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming Languages",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C/C++, Python, Java, Javascript, Assembly, Bash"
+      ]
+    },
+    {
+      "name": "Problem Solving",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Solved 3000+ problems"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Node, React, PyTorch, TensorFlow"
+      ]
+    },
+    {
+      "name": "Others",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Ubuntu, Git, LaTeX, Markdown, HTML, Docker"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Bangla",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -161,40 +164,54 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Dr. M. Sohel Rahman",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Professor, CSE, BUET<br>Email: sohel.kcl@gmail.com, msrahman@cse.buet.ac.bd<br>Contact: 8801552389480<br>Web page: http://msrahman.buet.ac.bd/"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Anindya Iqbal",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Professor, CSE, BUET<br>Email: anindya iqbal@yahoo.com, anindya@cse.buet.ac.bd<br>Contact: 8801857416849"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Face Aging",
+      "summary": "A Deep Learning Project aiming to generate human faces of a person in different ages using GAN.",
+      "highlights": [],
+      "url": "https://github.com/SA011/FaceAging"
+    },
+    {
+      "name": "Ray Tracing",
+      "summary": "A project regarding computer graphics. Ray Tracing is implemented from the scratch.",
+      "highlights": [],
+      "url": "https://github.com/SA011/CSE410/tree/master/Ray-Tracing"
+    },
+    {
+      "name": "Dream Sports League",
+      "summary": "Online game based on English Premier League. This project was for our Software Development Sessional Course.",
+      "highlights": [],
+      "url": "https://github.com/SA011/Dream-Sports-League-Backend"
+    },
+    {
+      "name": "C Compiler",
+      "summary": "A C compiler which converts C code into Assembly Language.",
+      "highlights": [],
+      "url": "https://github.com/SA011/Compiler-310"
+    },
+    {
+      "name": "Make my Trip",
+      "summary": "It is an online ticket booking and trip planning website. It was developed as our database project.",
+      "highlights": [],
+      "url": "https://github.com/RedwanulKarim612/Make-My-Trip"
+    },
+    {
+      "name": "Fruit Ninja",
+      "summary": "It is one of my earliest project. It is one of the classic mobile game which we developed for computer.",
+      "highlights": [],
+      "url": "https://github.com/SA011/Fruit-Ninja"
     }
   ]
 }
