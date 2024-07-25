@@ -2,7 +2,7 @@
 layout: page
 permalink: /achievements/
 title: Achievements
-description: A list of achievements
+description: 
 nav: true
 nav_order: 2
 display_categories: [International, Individual, National, Educational]

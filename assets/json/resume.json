@@ -15,42 +15,23 @@
     "profiles": [
     ]
   },
-  "education": [
+  "interests": [
     {
-      "institution": "Bangladesh University of Engineering and Technology",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://www.buet.ac.bd/",
-      "area": "Computer Science and Engineering",
-      "studyType": "Bachelor of Science",
-      "startDate": "2019-04-29",
-      "endDate": "2024-07-04",
-      "score": "3.83 / 4.00",
-      "courses": []
+      "name": "Research",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Deep Learning", "Computer Vision", "Artificial Intelligence"
+      ]
     },
     {
-      "institution": "Birsreshtha Noor Mohammad Public College",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://www.noormohammadcollege.ac.bd/",
-      "area": "Science",
-      "studyType": "Higher Secondary Certificate",
-      "startDate": "2016",
-      "endDate": "2018",
-      "score": "5.00 / 5.00",
-      "courses": []
-    },
-    {
-      "institution": "Dhanmondi Govt. Boys' High School",
-      "location": "Dhaka, Bangladesh",
-      "url": "http://www.dgbhs.edu.bd/",
-      "area": "Science",
-      "studyType": "Secondary School Certificate",
-      "startDate": "2006",
-      "endDate": "2016",
-      "score": "5.00 / 5.00",
-      "courses": []
+      "name": "Problem Solving",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Competitive Programming", "Algorithm", "Data Structure"
+      ]
     }
-
   ],
+  
   "awards": [
     {
       "title": "Asia West Champion at ICPC World Finals 2022",
@@ -101,11 +82,12 @@
       "url": "https://algo.codemarshal.org/contests/dhaka-21-main/standings"
     },
     {
-      "title": "Deans List Scholarship",
+      "title": "Dean's List Scholarship",
       "awarder": "Bangladesh University of Engineering and Technology",
       "date": "2021, 2023, 2024"
     }
   ],
+  
   "research": [
     {
       "name": "Advancing Agricultural Field Segmentation Using Deep Learning",
@@ -129,10 +111,46 @@
       "supervisor": "<a href=\"https://cse.buet.ac.bd/faculty_list/detail/anindyaiqbal\"> Dr. Anindya Iqbal (Prof, CSE, BUET)</a>, <a href=\"https://toufiqueparag.github.io/toufique.github.io/\"> Dr. Toufique Ahmed (Postdoc, CS, UC Davis) </a>"   
     }
   ],
+  "education": [
+    {
+      "institution": "Bangladesh University of Engineering and Technology",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://www.buet.ac.bd/",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2019-04-29",
+      "endDate": "2024-07-04",
+      "score": "3.83 / 4.00",
+      "courses": []
+    },
+    {
+      "institution": "Birsreshtha Noor Mohammad Public College",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://www.noormohammadcollege.ac.bd/",
+      "area": "Science",
+      "studyType": "Higher Secondary Certificate",
+      "startDate": "2016",
+      "endDate": "2018",
+      "score": "5.00 / 5.00",
+      "courses": []
+    },
+    {
+      "institution": "Dhanmondi Govt. Boys' High School",
+      "location": "Dhaka, Bangladesh",
+      "url": "http://www.dgbhs.edu.bd/",
+      "area": "Science",
+      "studyType": "Secondary School Certificate",
+      "startDate": "2006",
+      "endDate": "2016",
+      "score": "5.00 / 5.00",
+      "courses": []
+    }
+
+  ],
   "work": [
     {
       "name": "BRAC University, Dhaka, Bangladesh",
-      "position": "Lecturer of Computer Science and Engineering",
+      "position": "Lecturer, Department of Computer Science and Engineering",
       "url": "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering",
       "startDate": "2024-07-01",
       "endDate": "",
@@ -141,7 +159,7 @@
     },
     {
       "name": "Bangladesh University of Professionals",
-      "position": "Instructor of Competitive Programming",
+      "position": "Competitive Programming Instructor",
       "url": "https://bup.edu.bd/",
       "startDate": "2023-07-01",
       "endDate": "2023-12-01",
@@ -159,22 +177,15 @@
       "endDate": "2023-07-28",
       "summary": "Organizer for the BUET Inter University Programming Contest and Problem Setter at the same event.",
       "highlights": []
-    }
-  ],
-  "interests": [
-    {
-      "name": "Research",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Deep Learning", "Computer Vision", "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Problem Solving",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Competitive Programming", "Algorithm", "Data Structure"
-      ]
+    },{
+      "organization": "BdIO",
+      "location": "Dhaka, Bangladesh",
+      "position": "Problem Setter, Judge",
+      "url": "https://olympiad.org.bd/",
+      "startDate": "2023-04-06",
+      "endDate": "2023-04-06",
+      "summary": "Problem Setter and Judge in Bangladesh Informatics Olympiad",
+      "highlights": []
     }
   ],
   "certificates": [
@@ -209,30 +220,7 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "Bangla",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor Dr. M. Sohel Rahman",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Professor, CSE, BUET<br>Email: sohel.kcl@gmail.com, msrahman@cse.buet.ac.bd<br>Contact: 8801552389480<br>Web page: https://msrahman.buet.ac.bd/"
-    },
-    {
-      "name": "Professor Dr. Anindya Iqbal",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Professor, CSE, BUET<br>Email: anindya iqbal@yahoo.com, anindya@cse.buet.ac.bd<br>Contact: 8801857416849"
-    }
-  ],
+  
   "projects": [
     {
       "name": "Ray Tracing",
@@ -263,6 +251,30 @@
       "summary": "It is one of my earliest project. It is one of the classic mobile game which we developed for computer.",
       "highlights": [],
       "url": "https://github.com/SA011/Fruit-Ninja"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Bangla",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Dr. M. Sohel Rahman",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Professor, CSE, BUET<br>Email: sohel.kcl@gmail.com, msrahman@cse.buet.ac.bd<br>Contact: +8801552389480<br>Web page: https://msrahman.buet.ac.bd/"
+    },
+    {
+      "name": "Dr. Anindya Iqbal",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Professor, CSE, BUET<br>Email: anindya iqbal@yahoo.com, anindya@cse.buet.ac.bd<br>Contact: +8801857416849"
     }
   ]
 }
