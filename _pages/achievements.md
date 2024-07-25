@@ -6,6 +6,7 @@ description: A list of achievements
 nav: true
 nav_order: 2
 display_categories: [International, Individual, National, Educational]
+show_more: false
 ---
 
 <!-- pages/projects.md -->
@@ -16,6 +17,9 @@ display_categories: [International, Individual, National, Educational]
   </a>
 
   {% assign limit = 2 %}
+  {% if page.show_more == false %}
+    {% assign limit = 100 %}
+  {% endif %}
   {% assign categorized_achievements = site.achievements | where: "category", category %}
   {% assign size = categorized_achievements.size %}
   {% if categorized_achievements %}

@@ -1,0 +1,25 @@
+<div class="col mb-4">
+  <div>
+    <div class="row no-gutters">
+      <div class="col-md-14">
+        <div class="card-body">
+          <h3 class="card-title" ><a href="{{ content.link }}" class="stretched-link"> {{ content.institution }}</a></h3>
+          {% if content.studyType == "Bachelor of Science" %}
+            <h5> {{content.studyType}} in {{ content.area}}</h5>
+            <h6> CGPA: {{ content.cgpa }} </h6>
+            <h6> Major-CGPA (Courses of CSE): {{ content.major-cgpa }} </h6>
+            <p>- Dean’s list award recipient in levels 1, 3 and 4</p>
+            <p> <b>Notable Courses:</b> {{content.courses}}</p>
+          {% else %}
+            <h5> {{content.studyType}} </h5>
+            <h6> CGPA: {{ content.gpa }} </h6>
+            {% if content.scolarship == true %}
+              <p>- Awarded with Talentpool Scholarship </p>
+            {% endif %}
+          {% endif %}
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

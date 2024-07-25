@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Sk. Sabit Bin Mosaddek",
-    "designation": "Computer Science Engineer and Researcher",
+    "designation": "Computer Science Engineer, Lecturer and Researcher",
     "image": "",
     "email": "pritomsabit@gmail.com",
     "phone": "+8801798505511",
@@ -24,9 +24,32 @@
       "studyType": "Bachelor of Science",
       "startDate": "2019-04-29",
       "endDate": "2024-07-04",
-      "score": "3.83",
+      "score": "3.83 / 4.00",
+      "courses": []
+    },
+    {
+      "institution": "Birsreshtha Noor Mohammad Public College",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://www.noormohammadcollege.ac.bd/",
+      "area": "Science",
+      "studyType": "Higher Secondary Certificate",
+      "startDate": "2016",
+      "endDate": "2018",
+      "score": "5.00 / 5.00",
+      "courses": []
+    },
+    {
+      "institution": "Dhanmondi Govt. Boys' High School",
+      "location": "Dhaka, Bangladesh",
+      "url": "http://www.dgbhs.edu.bd/",
+      "area": "Science",
+      "studyType": "Secondary School Certificate",
+      "startDate": "2006",
+      "endDate": "2016",
+      "score": "5.00 / 5.00",
       "courses": []
     }
+
   ],
   "awards": [
     {
@@ -59,12 +82,12 @@
       "date": "2023-11-04",
       "url": "https://www.facebook.com/codingcompetitions/hacker-cup/2023"
     },
-    {
-      "title": "221st in Meta Hackercup Round 3 2021",
-      "awarder": "Meta Hacker Cup",
-      "date": "2021-10-09",
-      "url": "https://www.facebook.com/codingcompetitions/hacker-cup/2021" 
-    },
+    // {
+    //   "title": "221st in Meta Hackercup Round 3 2021",
+    //   "awarder": "Meta Hacker Cup",
+    //   "date": "2021-10-09",
+    //   "url": "https://www.facebook.com/codingcompetitions/hacker-cup/2021" 
+    // },
     {
       "title": "Champion in ICPC Asia Dhaka Regional Contest 2022",
       "awarder": "ICPC Dhaka Regional Contest",
@@ -76,9 +99,36 @@
       "awarder": "International Collegiate Programming Contest",
       "date": "2021-11-04",
       "url": "https://algo.codemarshal.org/contests/dhaka-21-main/standings"
+    },
+    {
+      "title": "Deans List Scholarship",
+      "awarder": "Bangladesh University of Engineering and Technology",
+      "date": "2021, 2023, 2024"
     }
   ],
-
+  "research": [
+    {
+      "name": "Advancing Agricultural Field Segmentation Using Deep Learning",
+      "time": "2024-Present",
+      "summary": "Agricultural field segmentation using deep learning models to identify crop types, weeds, and soil.",
+      "field": "Computer Vision, Machine Learning, Deep Learning",  
+      "supervisor": "<a href=\"https://cse.buet.ac.bd/faculty_list/detail/msrahman\"> Dr. M. Sohel Rahman (Prof, CSE, BUET)</a>"
+    },
+    {
+      "name": "Face aging and de-aging using generative adversarial networks",
+      "time": "2024",
+      "summary": "A novel approach to face aging and de-aging using generative adversarial networks (GANs) with a focus on preserving identity and facial attributes.",
+      "field": "Computer Vision, Machine Learning, Deep Learning",  
+      "supervisor": "<a href=\"https://scholar.google.com/citations?user=wTWba0MAAAAJ&hl=en\"> Ajmain Yasar Ahmed (CSE, BUET)</a>"
+    },
+    {
+      "name": "Advancing Automatic Code Review and Code Refinement Generation Using Large Language Models",
+      "time": "2023-Present (Manuscript in Preparation)",
+      "summary": "Prompting and PEFT techniques, augmenting static program metadata (function call graph) and natural language summary with human evaluation to improve code review and code refinement generation tasks",
+      "field": "Undergraduate Thesis, Software Engineering, Machine Learning, Natural Language Processing}", 
+      "supervisor": "<a href=\"https://cse.buet.ac.bd/faculty_list/detail/anindyaiqbal\"> Dr. Anindya Iqbal (Prof, CSE, BUET)</a>, <a href=\"https://toufiqueparag.github.io/toufique.github.io/\"> Dr. Toufique Ahmed (Postdoc, CS, UC Davis) </a>"   
+    }
+  ],
   "work": [
     {
       "name": "BRAC University, Dhaka, Bangladesh",
@@ -87,6 +137,15 @@
       "startDate": "2024-07-01",
       "endDate": "",
       "summary": "Teaching at the Department of Computer Science and Engineering, BRAC University, Dhaka, Bangladesh.",
+      "highlights": []
+    },
+    {
+      "name": "Bangladesh University of Professionals",
+      "position": "Instructor of Competitive Programming",
+      "url": "https://bup.edu.bd/",
+      "startDate": "2023-07-01",
+      "endDate": "2023-12-01",
+      "summary": "Trained students at BUP to help develop a better algorithmic problem solving skill.",
       "highlights": []
     }
   ],
@@ -119,8 +178,6 @@
     }
   ],
   "certificates": [
-  ],
-  "publications": [
   ],
   "skills": [
     {
@@ -168,21 +225,15 @@
     {
       "name": "Professor Dr. M. Sohel Rahman",
       "icon": "fa-solid fa-laptop",
-      "reference": "Professor, CSE, BUET<br>Email: sohel.kcl@gmail.com, msrahman@cse.buet.ac.bd<br>Contact: 8801552389480<br>Web page: http://msrahman.buet.ac.bd/"
+      "reference": "Professor, CSE, BUET<br>Email: sohel.kcl@gmail.com, msrahman@cse.buet.ac.bd<br>Contact: 8801552389480<br>Web page: https://msrahman.buet.ac.bd/"
     },
     {
-      "name": "Dr. Anindya Iqbal",
+      "name": "Professor Dr. Anindya Iqbal",
       "icon": "fa-solid fa-laptop",
       "reference": "Professor, CSE, BUET<br>Email: anindya iqbal@yahoo.com, anindya@cse.buet.ac.bd<br>Contact: 8801857416849"
     }
   ],
   "projects": [
-    {
-      "name": "Face Aging",
-      "summary": "A Deep Learning Project aiming to generate human faces of a person in different ages using GAN.",
-      "highlights": [],
-      "url": "https://github.com/SA011/FaceAging"
-    },
     {
       "name": "Ray Tracing",
       "summary": "A project regarding computer graphics. Ray Tracing is implemented from the scratch.",
