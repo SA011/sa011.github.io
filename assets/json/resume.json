@@ -94,21 +94,21 @@
       "time": "2024-Present",
       "summary": "Agricultural field segmentation using deep learning models to identify crop types, weeds, and soil.",
       "field": "Computer Vision, Machine Learning, Deep Learning",  
-      "supervisor": "<a href=\"https://cse.buet.ac.bd/faculty_list/detail/msrahman\"> Dr. M. Sohel Rahman (Prof, CSE, BUET)</a>"
+      "supervisor": "<a href=\"https://cse.buet.ac.bd/faculty_list/detail/msrahman\"> Dr. M. Sohel Rahman (Professor, CSE, BUET)</a>"
     },
     {
       "name": "Face aging and de-aging using generative adversarial networks",
       "time": "2024",
       "summary": "A novel approach to face aging and de-aging using generative adversarial networks (GANs) with a focus on preserving identity and facial attributes.",
       "field": "Computer Vision, Machine Learning, Deep Learning",  
-      "supervisor": "<a href=\"https://scholar.google.com/citations?user=wTWba0MAAAAJ&hl=en\"> Ajmain Yasar Ahmed (CSE, BUET)</a>"
+      "supervisor": "<a href=\"https://scholar.google.com/citations?user=wTWba0MAAAAJ&hl=en\"> Ajmain Yasar Ahmed (Lecturer, CSE, BUET)</a>"
     },
     {
       "name": "Advancing Automatic Code Review and Code Refinement Generation Using Large Language Models",
       "time": "2023-Present (Manuscript in Preparation)",
       "summary": "Prompting and PEFT techniques, augmenting static program metadata (function call graph) and natural language summary with human evaluation to improve code review and code refinement generation tasks",
       "field": "Undergraduate Thesis, Software Engineering, Machine Learning, Natural Language Processing}", 
-      "supervisor": "<a href=\"https://cse.buet.ac.bd/faculty_list/detail/anindyaiqbal\"> Dr. Anindya Iqbal (Prof, CSE, BUET)</a>, <a href=\"https://toufiqueparag.github.io/toufique.github.io/\"> Dr. Toufique Ahmed (Postdoc, CS, UC Davis) </a>"   
+      "supervisor": "<a href=\"https://cse.buet.ac.bd/faculty_list/detail/anindyaiqbal\"> Dr. Anindya Iqbal (Professor, CSE, BUET)</a>, <a href=\"https://toufiqueparag.github.io/toufique.github.io/\"> Dr. Toufique Ahmed (Postdoc, CS, UC Davis) </a>"   
     }
   ],
   "education": [
