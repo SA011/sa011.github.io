@@ -6,7 +6,7 @@ img: assets/img/face-de-aging.png
 # redirect: https://github.com/SA011/FaceAging
 importance: 1
 category: work
-visible: false
+visible: true
 ---
 This project is a Deep Learning project on Computer Vision. It identifies image of a human page and tries to age or de-age it. It uses Generative Adverserial Network (GAN). It trains two model simultaneously (Generator Model and Discriminator Model). After completion of training, this model can be used to complete different tasks. Such that--
   - It can try to make a human face older or younger
@@ -24,3 +24,6 @@ This project is a Deep Learning project on Computer Vision. It identifies image 
 <div class="caption">
     On the left, we have 4 images of comparatively older people's images which have turned into a slightly younger image. On the right, we see the opposite.
 </div>
+
+
+Github: [Face-Aging](https://github.com/SA011/FaceAging)

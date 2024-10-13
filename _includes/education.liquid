@@ -3,12 +3,13 @@
     <div class="row no-gutters">
       <div class="col-md-14">
         <div class="card-body">
-          <h3 class="card-title" ><a href="{{ content.link }}" class="stretched-link"> {{ content.institution }}</a></h3>
+          <h3 class="card-title" ><a href="{{ content.link }}"> {{ content.institution }}</a></h3>
           {% if content.studyType == "Bachelor of Science" %}
             <h5> {{content.studyType}} in {{ content.area}}</h5>
             <h6> CGPA: {{ content.cgpa }} </h6>
             <h6> Major-CGPA (Courses of CSE): {{ content.major-cgpa }} </h6>
             <p>- Dean’s list award recipient in levels 1, 3 and 4</p>
+            <p>- Lab coursework repository : <a href="https://github.com/SA011/BUET-Academic-Coursework">github.com/SA011/BUET-Academic-Coursework</a></p>
             <p> <b>Notable Courses:</b> {{content.courses}}</p>
           {% else %}
             <h5> {{content.studyType}} </h5>

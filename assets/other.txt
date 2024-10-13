@@ -1,0 +1,14 @@
+
+@article{FaceGan,
+  title={Face aging and de-aging using generative adversarial networks},
+  year={2024},
+  timeline={2024},
+  preview={de-aging.png},
+  description={
+    A novel approach to face aging and de-aging using generative adversarial networks (GANs) with a focus on preserving identity and facial attributes. Here CycleGAN and Conditional GANs are used to generate realistic and high-quality images.
+    <br><br><b>Tools and Technology:</b> Python (Pytorch), OpenCV, CycleGAN, Conditional GANs, Deep Face
+  },
+  field={Computer Vision, Machine Learning, Deep Learning},
+  supervisor={ <a href="https://scholar.google.com/citations?user=wTWba0MAAAAJ&hl=en"> Ajmain Yasar Ahmed (Lecturer, CSE, BUET)</a>}
+}
+

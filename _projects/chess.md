@@ -3,11 +3,10 @@ layout: page
 title: Chess Engine
 description: A chess project with home-made engine
 img: assets/img/chess.png
-importance: 1
-category: fun
+importance: 8
+category: work
 visible: true
 ---
-
 A very simple chess engine implementing Alpha-Beta Prunning. It can beat stockfish level 2 with only depth 3. It does not yet use any book moves. I hope it will improve if I incorporate book move with it.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -34,3 +33,6 @@ The chess engine can find checkmates and positional placement of pieces.
 <div class="caption">
     A checkmate and main-menu with different options.
 </div>
+
+
+Github: [Chess Engine](https://github.com/SA011/Chess)

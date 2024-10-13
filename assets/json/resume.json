@@ -95,19 +95,26 @@
       "field": "Computer Vision, Machine Learning, Deep Learning",  
       "supervisor": "<a href=\"https://cse.buet.ac.bd/faculty_list/detail/msrahman\"> Dr. M. Sohel Rahman (Professor, CSE, BUET)</a>"
     },
-    {
-      "name": "Face aging and de-aging using generative adversarial networks",
-      "time": "2024",
-      "summary": "A novel approach to face aging and de-aging using generative adversarial networks (GANs) with a focus on preserving identity and facial attributes.",
-      "field": "Computer Vision, Machine Learning, Deep Learning",  
-      "supervisor": "<a href=\"https://scholar.google.com/citations?user=wTWba0MAAAAJ&hl=en\"> Ajmain Yasar Ahmed (Lecturer, CSE, BUET)</a>"
-    },
+    // {
+    //   "name": "Face aging and de-aging using generative adversarial networks",
+    //   "time": "2024",
+    //   "summary": "A novel approach to face aging and de-aging using generative adversarial networks (GANs) with a focus on preserving identity and facial attributes.",
+    //   "field": "Computer Vision, Machine Learning, Deep Learning",  
+    //   "supervisor": "<a href=\"https://scholar.google.com/citations?user=wTWba0MAAAAJ&hl=en\"> Ajmain Yasar Ahmed (Lecturer, CSE, BUET)</a>"
+    // },
     {
       "name": "Advancing Automatic Code Review and Code Refinement Generation Using Large Language Models",
       "time": "2023-Present (Manuscript in Preparation)",
       "summary": "Prompting and PEFT techniques, augmenting static program metadata (function call graph) and natural language summary with human evaluation to improve code review and code refinement generation tasks",
-      "field": "Undergraduate Thesis, Software Engineering, Machine Learning, Natural Language Processing}", 
+      "field": "Undergraduate Thesis, Software Engineering, Machine Learning, Natural Language Processing", 
       "supervisor": "<a href=\"https://cse.buet.ac.bd/faculty_list/detail/anindyaiqbal\"> Dr. Anindya Iqbal (Professor, CSE, BUET)</a>, <a href=\"https://toufiqueparag.github.io/toufique.github.io/\"> Dr. Toufique Ahmed (Postdoc, CS, UC Davis) </a>"   
+    },
+    {
+      "name": "Faster and Improved CD-MAWS with Suffix Automata",
+      "time": "2024",
+      "summary": "We introduce a refined CD-MAWS method for phylogeny estimation, significantly reducing computational complexity using Suffix Automata",
+      "field": "Bioinformatics, Algorithms, Data Structures | Under-review",  
+      "supervisor": "<a href=\"https://scholar.google.com/citations?user=9d52x-cAAAAJ&hl=en\">  Dr. M. Saifur Rahman (Professor, CSE, BUET)</a>"
     }
   ],
   "education": [
@@ -148,12 +155,21 @@
   ],
   "work": [
     {
-      "name": "BRAC University, Dhaka, Bangladesh",
+      "name": "BRAC University",
       "position": "Lecturer, Department of Computer Science and Engineering",
       "url": "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering",
       "startDate": "2024-07-01",
       "endDate": "",
       "summary": "Teaching at the Department of Computer Science and Engineering, BRAC University, Dhaka, Bangladesh.",
+      "highlights": ["Course Taught: Programming Language-II, Data Structures, Algorithms"]
+    },
+    {
+      "name": "Tallykhata",
+      "position": "Junior Backend Developer Intern (Part-time)",
+      "url": "https://www.tallykhata.com/en/home-eng/",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01",
+      "summary": "Contributed to developing experimental projects of company",
       "highlights": []
     },
     {
@@ -163,6 +179,15 @@
       "startDate": "2023-07-01",
       "endDate": "2023-12-01",
       "summary": "Trained students at BUP to help develop a better algorithmic problem solving skill.",
+      "highlights": []
+    },
+    {
+      "name": "RedDot Digital Limited",
+      "position": "Machine Learning Intern (Part-time)",
+      "url": "https://www.reddotdigitalit.com/",
+      "startDate": "2023-05-01",
+      "endDate": "2023-06-01",
+      "summary": "Contributed to developing an Android App for Client-side verification of National ID Card images.",
       "highlights": []
     }
   ],
@@ -194,7 +219,7 @@
       "name": "Programming Languages",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "C/C++, Python, Java, Javascript, Assembly, Bash"
+        "C/C++, Python, Java, Javascript, Assembly, Bash, MySQL"
       ]
     },
     {
@@ -222,10 +247,28 @@
   
   "projects": [
     {
-      "name": "Ray Tracing",
-      "summary": "A project regarding computer graphics. Ray Tracing is implemented from the scratch.",
+      "name": "Face aging and de-aging using generative adversarial networks",
+      "summary": "A computer vision project for face aging and de-aging using generative adversarial networks (GANs) with a focus on preserving identity and facial attributes.",
       "highlights": [],
-      "url": "https://github.com/SA011/CSE410/tree/master/Ray-Tracing"
+      "url": "https://github.com/SA011/Face-GAN"
+    },
+    {
+      "name": "ML Algorithm, FNN, PCA and EM",
+      "summary": "Implemented FNN, Adaboost algorithm, PCA & clustering with EM algorithm on gaussian mixture models from scratch.",
+      "highlights": [],
+      "url": "https://github.com/SA011/CSE472"
+    },
+    {
+      "name": "Chess Engine",
+      "summary": "A chess engine built from scratch. It uses Minimax algorithm with Alpha-Beta pruning.",
+      "highlights": [],
+      "url": "https://github.com/SA011/Chess"
+    },
+    {
+      "name": "Ray Tracing & Raster Based Pipelines",
+      "summary": "A project regarding computer graphics. Ray Casting and Ray Tracing are implemented to render 3D objects",
+      "highlights": [],
+      "url": "https://github.com/SA011/CSE410"
     },
     {
       "name": "Dream Sports League",
