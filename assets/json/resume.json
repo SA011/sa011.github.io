@@ -250,7 +250,7 @@
       "name": "Face aging and de-aging using generative adversarial networks",
       "summary": "A computer vision project for face aging and de-aging using generative adversarial networks (GANs) with a focus on preserving identity and facial attributes.",
       "highlights": [],
-      "url": "https://github.com/SA011/Face-GAN"
+      "url": "https://github.com/SA011/FaceAging"
     },
     {
       "name": "ML Algorithm, FNN, PCA and EM",
