@@ -25,4 +25,6 @@ social: true # includes social icons at the bottom of the page
 </figure>
 <br><br>
 <hr>
+<div>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=0&t=n&d=T9HA0_IHH6EreKluQvYKPP_lw_f_KUeeYQ4nUcN79uQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+</div>
