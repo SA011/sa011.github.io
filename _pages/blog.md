@@ -21,7 +21,11 @@ pagination:
 ---
 
 You will be redirected to the main page within 3 seconds. If not redirected, please go back to the [home page]({{ site.baseurl | prepend: site.url }}).
+<div>
+<p>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=T9HA0_IHH6EreKluQvYKPP_lw_f_KUeeYQ4nUcN79uQ"></script>
+</p>
+</div>
 
 <!-- 
 <div class="post">
