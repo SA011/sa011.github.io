@@ -23,5 +23,5 @@ social: true # includes social icons at the bottom of the page
 <img src="/assets/img/wf2022-cropped.jpg" width="65%" alt="ICPC World Final 2022">
 <figcaption>46<sup>th</sup> ICPC World Final</figcaption>
 </figure>
-<br><br>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=0&t=n&d=T9HA0_IHH6EreKluQvYKPP_lw_f_KUeeYQ4nUcN79uQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 <hr>
