@@ -104,16 +104,16 @@
     // },
     {
       "name": "Advancing Automatic Code Review and Code Refinement Generation Using Large Language Models",
-      "time": "2023-Present (Manuscript in Preparation)",
+      "time": "2023-2024",
       "summary": "Prompting and PEFT techniques, augmenting static program metadata (function call graph) and natural language summary with human evaluation to improve code review and code refinement generation tasks",
-      "field": "Undergraduate Thesis, Software Engineering, Machine Learning, Natural Language Processing", 
+      "field": "Undergraduate Thesis, Software Engineering, Machine Learning, Natural Language Processing | Submitted to <a href=\"https://2025.msrconf.org/\">MSR 2025</a> (Under Review)", 
       "supervisor": "<a href=\"https://cse.buet.ac.bd/faculty_list/detail/anindyaiqbal\"> Dr. Anindya Iqbal (Professor, CSE, BUET)</a>, <a href=\"https://toufiqueparag.github.io/toufique.github.io/\"> Dr. Toufique Ahmed (Postdoc, CS, UC Davis) </a>"   
     },
     {
       "name": "Faster and Improved CD-MAWS with Suffix Automata",
       "time": "2024",
       "summary": "We introduce a refined CD-MAWS method for phylogeny estimation, significantly reducing computational complexity using Suffix Automata",
-      "field": "Bioinformatics, Algorithms, Data Structures | Under-review",  
+      "field": "Bioinformatics, Algorithms, Data Structures | Accepted at <a href=\"https://tcsuestc.com/walcom2025/pages/accepted.html\">WALCOM 2025</a>",  
       "supervisor": "<a href=\"https://scholar.google.com/citations?user=9d52x-cAAAAJ&hl=en\">  Dr. M. Saifur Rahman (Professor, CSE, BUET)</a>"
     }
   ],
