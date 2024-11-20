@@ -85,15 +85,15 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: sk-sabit # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID
+orcid_id: #https://orcid.org/0009-0009-5500-9743 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: Sk-Sabit-Bin-Mosaddek # your profile on ResearchGate
-scholar_userid: # your Google Scholar ID
+research_gate_profile: #Sk-Sabit-Bin-Mosaddek # your profile on ResearchGate
+scholar_userid: https://scholar.google.com/citations?user=ht72PlAAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
-semanticscholar_id: # your Semantic Scholar ID
+semanticscholar_id: #Sk.-Sabit-Bin-Mosaddek # your Semantic Scholar ID
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
 telegram_username: # your Telegram user name
