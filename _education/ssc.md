@@ -9,4 +9,5 @@ startDate: January, 2006
 endDate: April, 2016
 gpa: 5.00 / 5.00
 scholarship: false
+order: 4
 ---

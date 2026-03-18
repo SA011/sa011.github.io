@@ -9,4 +9,5 @@ startDate: June, 2016
 endDate: May, 2018
 gpa: 5.00 / 5.00
 scholarship: true
+order: 3
 ---

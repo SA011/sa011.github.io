@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 <div>
-  {% assign education = site.education | sort: "startDate" | reverse %}
+  {% assign education = site.education | sort: "order" %}
   {% assign size = education.size %}
   {% if education %}
     <div class="container">
