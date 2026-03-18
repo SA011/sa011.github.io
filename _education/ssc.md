@@ -1,6 +1,6 @@
 ---
 layout: page
-visible: false
+visible: true
 institution: Dhanmondi Govt. Boys' High School
 location: Dhaka, Bangladesh
 link: http://www.dgbhs.edu.bd/
