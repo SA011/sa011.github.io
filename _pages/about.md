@@ -6,11 +6,11 @@ subtitle: CS PhD Student @ Stony Brook University
 
 profile:
   align: right
-  image: prof_pic_color.jpg
+  image: prof-pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Computer Science</p>
-    <p>Stony Brook University, NY, USA</p>
+    <p>Dept. of Computer Science</p>
+    <p>Stony Brook University</p>
     <p><a href="mailto:smosaddek@cs.stonybrook.edu">smosaddek@cs.stonybrook.edu</a></p>
 
 

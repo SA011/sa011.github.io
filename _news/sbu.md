@@ -1,5 +1,5 @@
 ---
-date: August 1, 2025
+date: August 25, 2025
 inline: true
 visible: true
 title: Joined Stony Brook University as a PhD Student

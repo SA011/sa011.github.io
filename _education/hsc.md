@@ -1,6 +1,6 @@
 ---
 layout: page
-visible: true
+visible: false
 institution: Birsreshtha Noor Mohammad Public College
 location: Dhaka, Bangladesh
 link: https://www.noormohammadcollege.ac.bd/
