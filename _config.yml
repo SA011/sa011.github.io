@@ -7,7 +7,7 @@ first_name: Sk. Sabit Bin
 middle_name: 
 last_name: Mosaddek
 names: [Sk., Sabit, Bin, Mosaddek]
-email: pritomsabit@gmail.com
+email: smosaddek@cs.stonybrook.edu
 description: 
 footer_text: 
 keywords:  # add your own keywords or leave empty
@@ -85,7 +85,7 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: sk-sabit # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: #https://orcid.org/0009-0009-5500-9743 # your ORCID ID
+orcid_id: #0009-0009-5500-9743 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons

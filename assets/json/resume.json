@@ -222,7 +222,7 @@
       "url": "https://www.tallykhata.com/en/home-eng/",
       "startDate": "2024-01-01",
       "endDate": "2024-05-01",
-      "summary": "Contributed to developing experimental projects of company",
+      "summary": "Contributed to developing experimental projects at the company",
       "highlights": []
     },
     {
@@ -369,12 +369,12 @@
     {
       "name": "Dr. Anindya Iqbal",
       "icon": "fa-solid fa-laptop",
-      "reference": "Professor, CSE, BUET<br>Email: anindya@cse.buet.ac.bd<br>Contact: +8801857416849"
+      "reference": "Professor, CSE, BUET<br>Email: anindya@cse.buet.ac.bd<br>Web page: https://cse.buet.ac.bd/faculty/faculty_detail/anindyaiqbal"
     },
     {
       "name": "Dr. M. Sohel Rahman",
       "icon": "fa-solid fa-laptop",
-      "reference": "Professor, CSE, BUET<br>Email: sohel.kcl@gmail.com, msrahman@cse.buet.ac.bd<br>Contact: +8801552389480<br>Web page: https://msrahman.buet.ac.bd/"
+      "reference": "Professor, CSE, BUET<br>Email: msrahman@cse.buet.ac.bd<br>Web page: https://msrahman.buet.ac.bd/"
     }
   ]
 }
