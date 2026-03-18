@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Sk. Sabit Bin Mosaddek",
-    "designation": "Computer Science Engineer, Lecturer and Researcher",
+    "designation": "CS PhD Student",
     "image": "",
-    "email": "pritomsabit@gmail.com",
+    "email": ["pritomsabit@gmail.com", "smosaddek@cs.stonybrook.edu"],
     "website": "https://sa011.github.io",
     "location": {
-      "address": "93/1, Middle Pirerbag, Mirpur",
-      "postalCode": "1216",
-      "city": "Dhaka",
-      "country": "BANGALDESH"
+      "address": "",
+      "postalCode": "",
+      "city": "Stony Brook, NY",
+      "country": "USA"
     },
     "profiles": [
     ]
@@ -19,7 +19,7 @@
       "name": "Research",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Computer Vision", "Deep Learning", "Computer Graphics"
+        "Computer Vision", "3D Scene Understanding", "3D Reconstruction", "3D Foundation Model", "Deep Learning", "Computer Graphics"
       ]
     },
     {
@@ -33,10 +33,27 @@
   
   "awards": [
     {
+      "title": "Chairman Fellowship (2025–2027)",
+      "date": "2025-08-01",
+      "awarder": "Stony Brook University",
+      "url": ""
+    },
+    {
       "title": "Asia West Champion at ICPC World Finals 2022",
       "date": "2024-04-17",
       "awarder": "International Collegiate Programming Contest",
       "url": "https://icpc.global/ICPCID/8G78QKAWMN8N"
+    },
+    {
+      "title": "RISE-BUET Internal Student Research Grant",
+      "awarder": "Bangladesh University of Engineering and Technology",
+      "date": "2023-01-01",
+      "url": ""
+    },
+    {
+      "title": "Dean's List Award and University Merit Scholarship",
+      "awarder": "Bangladesh University of Engineering and Technology",
+      "date": "2019-2024"
     },
     {
       "title": "2nd Runner Up at ICPC Asia West Continent Final 2021",
@@ -79,18 +96,31 @@
       "awarder": "International Collegiate Programming Contest",
       "date": "2021-11-04",
       "url": "https://algo.codemarshal.org/contests/dhaka-21-main/standings"
-    },
-    {
-      "title": "Dean's List Scholarship",
-      "awarder": "Bangladesh University of Engineering and Technology",
-      "date": "2021, 2023, 2024"
     }
+    // {
+    //   "title": "Champion in Inter University Programming Contest, RUET 2022",
+    //   "awarder": "Rajshahi University of Engineering and Technology",
+    //   "date": "2022-01-01",
+    //   "url": ""
+    // },
+    // {
+    //   "title": "1st Runner-up in Inter University Programming Contest, AUST 2022",
+    //   "awarder": "Ahsanullah University of Science and Technology",
+    //   "date": "2022-01-01",
+    //   "url": ""
+    // },
+    // {
+    //   "title": "1st Runner-up in Inter University Programming Contest, SUST 2023",
+    //   "awarder": "Shahjalal University of Science and Technology",
+    //   "date": "2023-01-01",
+    //   "url": ""
+    // }
   ],
   
   "research": [
     {
       "name": "Advancing Agricultural Field Segmentation Using Deep Learning",
-      "time": "2024-Present",
+      "time": "Jun 2024 - Dec 2024",
       "summary": "Agricultural field segmentation using deep learning models to identify crop types, weeds, and soil.",
       "field": "Computer Vision, Machine Learning, Deep Learning",  
       "supervisor": "<a href=\"https://cse.buet.ac.bd/faculty_list/detail/msrahman\"> Dr. M. Sohel Rahman (Professor, CSE, BUET)</a>"
@@ -119,6 +149,19 @@
   ],
   "education": [
     {
+      "institution": "Stony Brook University",
+      "location": "Stony Brook, NY, USA",
+      "url": "https://www.cs.stonybrook.edu/",
+      "area": "Computer Science",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2025-08-01",
+      "endDate": "",
+      "score": "",
+      "courses": [],
+      "advisor": "Dr. Akshat Dave",
+      "lab": "Photon Intelligence Lab"
+    },
+    {
       "institution": "Bangladesh University of Engineering and Technology",
       "location": "Dhaka, Bangladesh",
       "url": "https://www.buet.ac.bd/",
@@ -126,42 +169,51 @@
       "studyType": "Bachelor of Science",
       "startDate": "2019-04-29",
       "endDate": "2024-07-04",
-      "score": "3.83 / 4.00",
-      "courses": []
-    },
-    {
-      "institution": "Birsreshtha Noor Mohammad Public College",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://www.noormohammadcollege.ac.bd/",
-      "area": "Science",
-      "studyType": "Higher Secondary Certificate",
-      "startDate": "2016",
-      "endDate": "2018",
-      "score": "5.00 / 5.00",
-      "courses": []
-    },
-    {
-      "institution": "Dhanmondi Govt. Boys' High School",
-      "location": "Dhaka, Bangladesh",
-      "url": "http://www.dgbhs.edu.bd/",
-      "area": "Science",
-      "studyType": "Secondary School Certificate",
-      "startDate": "2006",
-      "endDate": "2016",
-      "score": "5.00 / 5.00",
+      // "score": "3.83 / 4.00",
       "courses": []
     }
+    // {
+    //   "institution": "Birsreshtha Noor Mohammad Public College",
+    //   "location": "Dhaka, Bangladesh",
+    //   "url": "https://www.noormohammadcollege.ac.bd/",
+    //   "area": "Science",
+    //   "studyType": "Higher Secondary Certificate",
+    //   "startDate": "2016",
+    //   "endDate": "2018",
+    //   "score": "5.00 / 5.00",
+    //   "courses": []
+    // },
+    // {
+    //   "institution": "Dhanmondi Govt. Boys' High School",
+    //   "location": "Dhaka, Bangladesh",
+    //   "url": "http://www.dgbhs.edu.bd/",
+    //   "area": "Science",
+    //   "studyType": "Secondary School Certificate",
+    //   "startDate": "2006",
+    //   "endDate": "2016",
+    //   "score": "5.00 / 5.00",
+    //   "courses": []
+    // }
 
   ],
   "work": [
+    {
+      "name": "Stony Brook University",
+      "position": "Teaching Assistant, Department of Computer Science",
+      "url": "https://www.cs.stonybrook.edu/",
+      "startDate": "2025-08-01",
+      "endDate": "",
+      "summary": "Teaching Assistant at the Department of Computer Science, Stony Brook University, NY, USA.",
+      "highlights": ["Course: CSE 307 - Principles of Programming Languages"]
+    },
     {
       "name": "BRAC University",
       "position": "Lecturer, Department of Computer Science and Engineering",
       "url": "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering",
       "startDate": "2024-07-01",
-      "endDate": "",
+      "endDate": "2025-07-01",
       "summary": "Teaching at the Department of Computer Science and Engineering, BRAC University, Dhaka, Bangladesh.",
-      "highlights": ["Course Taught: Computer Graphics, Algorithms, Data Structures, Programming Language-II"]
+      "highlights": ["Courses Taught: Computer Graphics, Algorithms, Data Structures, Programming Language-II"]
     },
     {
       "name": "Tallykhata",
@@ -258,42 +310,42 @@
       "highlights": [],
       "url": "https://github.com/SA011/CSE472"
     },
-    {
-      "name": "Chess Engine",
-      "summary": "A chess engine built from scratch. It uses Minimax algorithm with Alpha-Beta pruning.",
-      "highlights": [],
-      "url": "https://github.com/SA011/Chess"
-    },
+    // {
+    //   "name": "Chess Engine",
+    //   "summary": "A chess engine built from scratch. It uses Minimax algorithm with Alpha-Beta pruning.",
+    //   "highlights": [],
+    //   "url": "https://github.com/SA011/Chess"
+    // },
     {
       "name": "Ray Tracing & Raster Based Pipelines",
       "summary": "A project regarding computer graphics. Ray Casting and Ray Tracing are implemented to render 3D objects",
       "highlights": [],
       "url": "https://github.com/SA011/CSE410"
     },
-    {
-      "name": "Dream Sports League",
-      "summary": "Online game based on English Premier League. This project was for our Software Development Sessional Course.",
-      "highlights": [],
-      "url": "https://github.com/SA011/Dream-Sports-League-Backend"
-    },
+    // {
+    //   "name": "Dream Sports League",
+    //   "summary": "Online game based on English Premier League. This project was for our Software Development Sessional Course.",
+    //   "highlights": [],
+    //   "url": "https://github.com/SA011/Dream-Sports-League-Backend"
+    // },
     {
       "name": "C Compiler",
       "summary": "A C compiler which converts C code into Assembly Language.",
       "highlights": [],
       "url": "https://github.com/SA011/Compiler-310"
-    },
-    {
-      "name": "Make my Trip",
-      "summary": "It is an online ticket booking and trip planning website. It was developed as our database project.",
-      "highlights": [],
-      "url": "https://github.com/RedwanulKarim612/Make-My-Trip"
-    },
-    {
-      "name": "Fruit Ninja",
-      "summary": "It is one of my earliest project. It is one of the classic mobile game which we developed for computer.",
-      "highlights": [],
-      "url": "https://github.com/SA011/Fruit-Ninja"
     }
+    // {
+    //   "name": "Make my Trip",
+    //   "summary": "It is an online ticket booking and trip planning website. It was developed as our database project.",
+    //   "highlights": [],
+    //   "url": "https://github.com/RedwanulKarim612/Make-My-Trip"
+    // },
+    // {
+    //   "name": "Fruit Ninja",
+    //   "summary": "It is one of my earliest project. It is one of the classic mobile game which we developed for computer.",
+    //   "highlights": [],
+    //   "url": "https://github.com/SA011/Fruit-Ninja"
+    // }
   ],
   "languages": [
     {
@@ -309,14 +361,19 @@
   ],
   "references": [
     {
-      "name": "Dr. M. Sohel Rahman",
+      "name": "Dr. Akshat Dave",
       "icon": "fa-solid fa-laptop",
-      "reference": "Professor, CSE, BUET<br>Email: sohel.kcl@gmail.com, msrahman@cse.buet.ac.bd<br>Contact: +8801552389480<br>Web page: https://msrahman.buet.ac.bd/"
+      "reference": "Assistant Professor, Computer Science, Stony Brook University<br>Email: dave@cs.stonybrook.edu<br>Web page: https://akshatdave.github.io/"
     },
     {
       "name": "Dr. Anindya Iqbal",
       "icon": "fa-solid fa-laptop",
-      "reference": "Professor, CSE, BUET<br>Email: anindya iqbal@yahoo.com, anindya@cse.buet.ac.bd<br>Contact: +8801857416849"
+      "reference": "Professor, CSE, BUET<br>Email: anindya@cse.buet.ac.bd<br>Contact: +8801857416849"
+    },
+    {
+      "name": "Dr. M. Sohel Rahman",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Professor, CSE, BUET<br>Email: sohel.kcl@gmail.com, msrahman@cse.buet.ac.bd<br>Contact: +8801552389480<br>Web page: https://msrahman.buet.ac.bd/"
     }
   ]
 }
