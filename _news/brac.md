@@ -4,4 +4,4 @@ inline: true
 visible: true
 title: Joined BRAC University as a Lecturer
 ---
-<p> Recieved offer letter and joined BRAC University as a Lecturer in Computer Science and Engineering. </p>
+<p> Received offer letter and joined BRAC University as a Lecturer in Computer Science and Engineering. </p>

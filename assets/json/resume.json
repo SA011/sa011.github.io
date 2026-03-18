@@ -3,7 +3,7 @@
     "name": "Sk. Sabit Bin Mosaddek",
     "designation": "CS PhD Student",
     "image": "",
-    "email": ["pritomsabit@gmail.com", "smosaddek@cs.stonybrook.edu"],
+    "email": ["smosaddek@cs.stonybrook.edu", "pritomsabit@gmail.com"],
     "website": "https://sa011.github.io",
     "location": {
       "address": "",
@@ -36,84 +36,85 @@
       "title": "Chairman Fellowship (2025–2027)",
       "date": "2025-08-01",
       "awarder": "Stony Brook University",
-      "url": ""
+      "url": "https://sa011.github.io/achievements/chairman-fellowship/"
     },
     {
       "title": "Asia West Champion at ICPC World Finals 2022",
       "date": "2024-04-17",
       "awarder": "International Collegiate Programming Contest",
-      "url": "https://icpc.global/ICPCID/8G78QKAWMN8N"
+      "url": "https://sa011.github.io/achievements/wf2022/"
     },
     {
       "title": "RISE-BUET Internal Student Research Grant",
       "awarder": "Bangladesh University of Engineering and Technology",
       "date": "2023-01-01",
-      "url": ""
+      "url": "https://sa011.github.io/achievements/rise/"
     },
     {
       "title": "Dean's List Award and University Merit Scholarship",
       "awarder": "Bangladesh University of Engineering and Technology",
-      "date": "2019-2024"
+      "date": "2019-2024",
+      "url": "https://sa011.github.io/achievements/deans/"
     },
     {
       "title": "2nd Runner Up at ICPC Asia West Continent Final 2021",
       "date": "2022-12-24",
-      "url": "https://codedrills.io/contests/icpc-asia-west-continent-finals-2021",
+      "url": "https://sa011.github.io/achievements/aw2021/",
       "awarder": "International Collegiate Programming Contest"
     },
     {
       "title": "Grandmaster at Codeforces (Max Rating: 2403)",
       "awarder": "Codeforces",
-      "url": "https://codeforces.com/profile/SA01",
+      "url": "https://sa011.github.io/achievements/codeforces/",
       "date": "2023-05-28"
     },
     {
       "title": "286th in Google Code Jam Round 3 2021",
       "awarder": "Google Code Jam",
       "date": "2021-06-05",
-      "url": "https://codingcompetitions.withgoogle.com/codejam"
+      "url": "https://sa011.github.io/achievements/code-jam-2021/"
     },
     {
       "title": "232nd in Meta Hackercup Round 3 2023",
       "awarder": "Meta Hacker Cup",
       "date": "2023-11-04",
-      "url": "https://www.facebook.com/codingcompetitions/hacker-cup/2023"
+      "url": "https://sa011.github.io/achievements/hackercup-2023/"
     },
     // {
     //   "title": "221st in Meta Hackercup Round 3 2021",
     //   "awarder": "Meta Hacker Cup",
     //   "date": "2021-10-09",
-    //   "url": "https://www.facebook.com/codingcompetitions/hacker-cup/2021" 
+    //   "url": "https://sa011.github.io/achievements/hackercup-2021/"
     // },
     {
       "title": "Champion in ICPC Asia Dhaka Regional Contest 2022",
       "awarder": "ICPC Dhaka Regional Contest",
       "date": "2022-03-01",
-      "url": "https://algo.codemarshal.org/contests/dhaka-22-main/standings"
+      "url": "https://sa011.github.io/achievements/reg2022/"
     },
     {
       "title": "1st Runner-up in ICPC Asia Dhaka Regional Contest 2021",
       "awarder": "International Collegiate Programming Contest",
       "date": "2021-11-04",
-      "url": "https://algo.codemarshal.org/contests/dhaka-21-main/standings"
+      "url": "https://sa011.github.io/achievements/reg2021/"
     }
     // {
     //   "title": "Champion in Inter University Programming Contest, RUET 2022",
     //   "awarder": "Rajshahi University of Engineering and Technology",
     //   "date": "2022-01-01",
-    //   "url": ""
+    //   "url": "https://sa011.github.io/achievements/ruet2022/"
     // },
     // {
     //   "title": "1st Runner-up in Inter University Programming Contest, AUST 2022",
     //   "awarder": "Ahsanullah University of Science and Technology",
     //   "date": "2022-01-01",
-    //   "url": ""
+    //   "url": "https://sa011.github.io/achievements/aust2022/"
     // },
     // {
     //   "title": "1st Runner-up in Inter University Programming Contest, SUST 2023",
     //   "awarder": "Shahjalal University of Science and Technology",
     //   "date": "2023-01-01",
-    //   "url": ""
+    //   "url": "https://sa011.github.io/achievements/sust2023/"
     // }
   ],
   

@@ -5,7 +5,7 @@ title: Achievements
 description: 
 nav: true
 nav_order: 2
-display_categories: [International, Individual, National, Educational]
+display_categories: [Educational, International, Individual, National]
 show_more: false
 ---
 

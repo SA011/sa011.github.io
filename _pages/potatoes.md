@@ -10,7 +10,7 @@ Coach: Dr. M. Sohel Rahman <br>
 <h4> Achievements: </h4>
 1. ICPC World Final 2022: 26th (Asia West Champion) <br>
 2. ICPC Dhaka Regional 2022: 1st Place <br>
-3. ICPC Dhaka Regional 2021: 2st Place <br>
+3. ICPC Dhaka Regional 2021: 2nd Place <br>
 4. ICPC Asia West Continent Final 2021: 3rd Place <br>
 5. RUET IUPC 2022: 1st Place <br>
 6. AUST IUPC 2022: 2nd Place <br>

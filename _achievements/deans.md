@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Dean's List Scholarship
-description: Achieved scholarship in Level 1, 3 & 4 for extraordinary results. 
-importance: 1
+description: Achieved scholarship in 2019-2024 for extraordinary results. 
+importance: 2
 category: Educational
 visible: true
 ---
